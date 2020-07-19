@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #""
   location         : #""
-  email            :
+  email            : kisung.lee@utexas.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
